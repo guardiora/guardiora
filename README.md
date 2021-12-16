@@ -1,7 +1,13 @@
-### Hi there 👋
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=guardiora&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
+
+A self-taught crafter who eager to learn for advancement. Whether it's coding with a new language, design with any tools whatsoever or building a startup.
+
+Now as a **designer who codes** at ByteDance. Building somethine new on ***.
 
 <!--
-**guardiora/guardiora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FradSer/FradSer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
